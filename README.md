@@ -12,15 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about custom PCs builds
 - 📫 How to reach me: hirt1995@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: I love playing with my PC gaming, but I'm afraid of the electricity bill
 
-
-🔭 I’m currently working on a non-woven textile plant
-🌱 I’m currently learning Java
-👯 I’m looking to collaborate on Ruby on rails projects
-🤔 I’m looking for help with finding my first IT job
-💬 Ask me about Data analysis
-📫 How to reach me: sebnartor@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love playing with my PC gaming, but I'm afraid of the electricity bill
