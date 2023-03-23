@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**hirt1995/hirt1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying Mechanical Engieeniering
 - 🌱 I’m currently learning FullStack developing with Java and Spring
 - 👯 I’m looking to collaborate on Java and Springs backend projects
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hirt1995@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing with my PC gaming, but I'm afraid of the electricity bill
-
